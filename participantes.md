@@ -17,3 +17,4 @@ Usuarios de GitHub de los participantes de Informática II.
 - lgallero
 - jch-ching
 - mjbustos182
+- KarenFlorenciaAbigailGatica 
