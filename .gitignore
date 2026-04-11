@@ -17,3 +17,8 @@ cmake-build-*/
 # OS
 Thumbs.db
 .DS_Store
+
+# ignorar cualquier ejecutable en todo el repo
+*
+!*/
+!*.*
